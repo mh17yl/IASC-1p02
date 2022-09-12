@@ -1,0 +1,10 @@
+<table width="200" height="200" border="1">
+<tr>
+<td width="100" height="100">top left cell</td>
+<td width="100" height="100">top right cell</td>
+</tr>
+<tr>
+<td width="100" height="100">bottom left cell</td>
+<td width="100" height="100">bottom right cell</td>
+</tr>
+</table>
