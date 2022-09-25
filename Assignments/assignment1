@@ -17,8 +17,8 @@ At least two paragraphs (<p></p>), each with tag styled text (strong, em)
   <h1> Why UX design is a highly underrated job:</h1>
     <p> As a <strong>UX designer </strong> you get to solve real-world problems, as well as the tiny,
       day-to-day, seemingly insignificant problems (that actually add up to a lot!).
-      It’s all in the name, <em>User Experience design </em>—the user and their needs are at the
-      forefront of the design process, whether it’s an app, a website, financial services,
+      It is all in the name, <em>User Experience design </em> -the user and their needs are at the
+      forefront of the design process, whether it is an app, a website, financial services,
       or the layout of a shop.
     </p>
 
@@ -29,6 +29,31 @@ At least two paragraphs (<p></p>), each with tag styled text (strong, em)
       <li>No need to master any tools </li>
       <li>Opportunities for skills development, growth and specialization </li>
 
+
+<h2> How to become a UX designer in five steps </h2>
+
+  <ol>
+    <li> Learn UX design fundamentals </li>
+    <li> Learn key design tools </li>
+    <li> Work on your own projects to develop your UX design skills </li>
+    <li> Develop a portfolio to showcase your UX design work </li>
+    <li> Apply to relevant UX design jobs </li>
+  </ol>
+
+<h2> Resources to help your journey on becoming a UX designer </h2>
+
+  <p> BrainStation’s UX Designer career guide is intended to help you take the
+      first steps toward a lucrative career in UX design. The guide provides an
+      in-depth overview of the design skills you should learn, the best available
+      UX design training options, career paths in UX design, how to become a UX Designer,
+      and more.
+  </p>
+
+<h4>   Here you can access BrainStation's bootcamp: </h4>
+<a href="https://brainstation.io/career-guides/how-to-become-a-ux-designer"> Click here </a>
+
+<h4> Here you can find a basic layout of a web page to familiarize yourself with </h4>
+<a href="/lab2page1"> </a>
 
 
 Proof of why UX design is better than computer science:
