@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>IASC 1P02 Assignment1 </title>
+</head>
+
+Required xHTML elements (doctype, html, head, title, body)
+At least two links (one relative*, one absolute)
+At least two lists (one ordered, one unordered)
+At least two images (one relative, one absolute)
+At least one in-page anchor
+At least two headers (h1, h2, h3 or otherwise)
+At least two paragraphs (<p></p>), each with tag styled text (strong, em)
+
+<body>
+  <h1> Why UX design is a highly underrated job:</h1>
+    <p> As a <strong>UX designer </strong> you get to solve real-world problems, as well as the tiny,
+      day-to-day, seemingly insignificant problems (that actually add up to a lot!).
+      It’s all in the name, <em>User Experience design </em>—the user and their needs are at the
+      forefront of the design process, whether it’s an app, a website, financial services,
+      or the layout of a shop.
+    </p>
+
+    <h3> Reasons why UX designers are in demnad: </h3>
+    <ul>
+      <li>A Chance to be both Creative and Logical </li>
+      <li>An easy switch from any career </li>
+      <li>No need to master any tools </li>
+      <li>Opportunities for skills development, growth and specialization </li>
+
+
+
+Proof of why UX design is better than computer science:
+
+
+
+
+
+
+</body>
+</html>
