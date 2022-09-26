@@ -9,6 +9,6 @@ ul{
 }
 
 li{
-  display: inline;
+  display: inline-inline-block;
   font-size: 30px;
 }
