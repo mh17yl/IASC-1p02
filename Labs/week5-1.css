@@ -1,33 +1,43 @@
 body{
 	color:white;
-	background-color:white;
+	background-color:black;
+	position: fixed;
 }
 
 
 #wrapper{
 	width:750px;
-	margin:0 auto;
+	height: 575px;
+	margin: 0,auto;
 	background-color:white;
+	align-content: center;
 }
 
 #header{
 	height:50px;
+	width: 740px;
 	background-color: red;
 	text-align:center;
+	border-top: 50px;
+	padding: 5px;
 
 }
 
 #leftbody{
-	float:left;
+
 	width:750px;
-	height: auto;
+	height: 400px;
 	background-color:green;
 
 }
 
 #bottom{
 	height:50px;
+	width: 740px;
+	background-color: blue;
+	margin-bottom: 50px;
 	clear:both;
-	padding-bottom:200px;
+	padding: 5px;
+
 
 }
