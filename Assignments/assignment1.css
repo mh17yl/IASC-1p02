@@ -1,19 +1,32 @@
 
-Create and implement a CSS class that changes the color of a piece of text
-Create and implement a CSS class that changes the size of a piece of text
-Create and implement a CSS class that changes the font of a piece of text
-Create and implement a CSS class that transforms the case of a piece of text (lowercase, uppercase or capitalize)
 Include at least one element that is positioned absolutely, relatively and fixed
 Create at least one CSS class that uses nested selectors
 Create at least one CSS class that uses grouped selectors
 Demonstrate the concepts of the “Box” model (margin, border, padding, content) at least once
 
-
-anchor{
+.anchor{
   position: fixed;
+  left: 100px;
+  top: 150px;
+
 }
 
-colour{
-  color: blue;
 
+.size{
+  font-size: 25px;
+}
+
+
+.colour{
+  color: red;
+
+}
+
+
+.case{
+  text-transform: uppercase;
+}
+
+.font{
+  font-family: Arial, Helvetica, sans-serif;
 }
