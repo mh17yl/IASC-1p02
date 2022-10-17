@@ -1,23 +1,24 @@
 
-Include at least one element that is positioned absolutely, relatively and fixed
-Create at least one CSS class that uses nested selectors
-Create at least one CSS class that uses grouped selectors
-Demonstrate the concepts of the “Box” model (margin, border, padding, content) at least once
 
-.anchor{
-  position: fixed;
-  left: 100px;
-  top: 150px;
+#wrapper{
+	width:1500px;
+	height: auto;
+	margin: 0,auto;
+  border-radius: 50px;
 
 }
 
+#bottom{
+  padding: 50px;
+  font-size: 30px;
+}
 
 .size{
   font-size: 25px;
 }
 
 
-.colour{
+.colour, h2,{
   color: red;
 
 }
@@ -29,4 +30,14 @@ Demonstrate the concepts of the “Box” model (margin, border, padding, conten
 
 .font{
   font-family: Arial, Helvetica, sans-serif;
+}
+
+#anchor {
+  position: fixed;
+}
+
+
+.nest h3{
+  font-style: italic;
+  color: blue;
 }
